@@ -1,10 +1,3 @@
-
-### Key Features of this README:
-1. **GitHub-friendly format**: Uses standard Markdown syntax, code blocks for commands, and emoji icons for readability (optional to remove if you prefer a more minimalist style).
-2. **Accurate terminology**: Maintains consistent academic terms (EFDM+RP/AdaIN+RP) and technical expressions.
-3. **Clear structure**: Separates core sections (Updated Content/Usage/Future Plans) for easy navigation.
-4. **Practical notes**: Includes environment/parameter/model file tips to help users avoid common issues.
-
 ### Optional Minimalist Version:
 ```markdown
 # Random-Projection-Induced-Gaussian-Latent-Features-for-Arbitrary-Style-Transfer
